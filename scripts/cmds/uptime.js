@@ -82,6 +82,7 @@ module.exports = {
 	config: {
 		name: 'uptime',
 		version: '2.1.0',
+		aliases: "up",
 		author: "Cliff", // Do not change credits
 		countDown: 5,
 		role: 0,
