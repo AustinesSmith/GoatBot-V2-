@@ -25,7 +25,7 @@ module.exports = {
 				bio: '⭐Always Be Happy Never Give up In You Dream Until You Reach It⭐'
 			};
 
-			const bold = 'https://i.imgur.com/SyBjkss.mp4';
+			const bold = 'https://imgur.com/D5yjfE1';
 			const tmpFolderPath = path.join(__dirname, 'tmp');
 
 			if (!fs.existsSync(tmpFolderPath)) {
