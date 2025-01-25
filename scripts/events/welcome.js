@@ -30,8 +30,7 @@ module.exports = {
 			multiple1: "you",
 			multiple2: "you guys",
 			defaultWelcomeMessage: `╔═══════ ೋღ 🌺 ღೋ ═══════╗
-Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊 type .support to be added in support gc╚═══════ ೋღ 🌺 ღೋ ═══════╝
-`
+Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊 type .support to be added in support gc ╚═══════ ೋღ 🌺 ღೋ ═══════╝`
 		}
 	},
 
